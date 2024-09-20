@@ -13,3 +13,4 @@ class CalcTests(SimpleTestCase):
         res = calc.sub(10,7)
 
         self.assertEqual(res,3)
+        
